@@ -51,7 +51,3 @@ O objetivo principal é identificar padrões de comportamento entre clientes que
 - Contratos mensais e pagamento por `Electronic Check` têm maior associação com churn.
 - A maioria dos clientes permanece com a empresa, mas há um padrão claro de risco entre perfis específicos.
 
----
-
-## 👨‍💻 Autora
-Este projeto foi desenvolvido por Karol Soares, participante do Programa ONE | Alura + Oracle.
